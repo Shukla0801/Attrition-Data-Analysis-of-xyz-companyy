@@ -1,1 +1,2 @@
+**Introduction** :
 XYZ Company is grappling with a 15% attrition rate, posing significant challenges to its operations. To tackle this issue, the company has enlisted the support of an HR analytics consultancy. As the HR analyst spearheading this initiative, the goal is to develop a data-driven dashboard using Power BI to uncover the root causes of attrition and provide actionable insights for reducing turnover rates.
