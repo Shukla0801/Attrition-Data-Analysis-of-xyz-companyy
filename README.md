@@ -1,16 +1,20 @@
 **Introduction** :
+
 XYZ Company is grappling with a 15% attrition rate, posing significant challenges to its operations. To tackle this issue, the company has enlisted the support of an HR analytics consultancy. As the HR analyst spearheading this initiative, the goal is to develop a data-driven dashboard using Power BI to uncover the root causes of attrition and provide actionable insights for reducing turnover rates.
 
 **Objectives**:
+
 > Utilize Power BI to uncover the underlying factors contributing to XYZ Company's 15% attrition rate.
 > Gain insights into employee turnover trends and patterns.
 > Develop actionable strategies to improve retention and reduce attrition.
 
  **Scope**
+ 
 >  Analyzing employee data , focusing on voluntary attrition.
 > Examining attrition rates across departments, job roles, and demographic factors.
 
 **Company level**
+
 **Insights and Analysis**
 1. **High Turnover Departments**
 Insight: The Research and Development department has the highest attrition rate  compared to the others departments. 
